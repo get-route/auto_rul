@@ -1,0 +1,10 @@
+{
+  "require": {
+    "phpoffice/phpspreadsheet": "^1.18"
+  },
+  "autoload": {
+    "psr-4": {
+      "Class\\": "Admin/Class"
+    }
+  }
+}

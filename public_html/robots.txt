@@ -1,0 +1,13 @@
+User-agent: Yandex 
+Disallow: /Admin
+Disallow: /js
+
+Host: https://auto-rul.ru
+
+User-agent: Googlebot 
+Disallow: /Admin
+
+User-agent: *         
+Disallow: /Admin
+
+Sitemap: https://auto-rul.ru/sitemap.xml
